@@ -1,0 +1,35 @@
+.gallery img{
+    width: 100%;
+}
+h2{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: blue;
+}
+#credentials h2{
+    color:rgb(63, 99, 216);
+    font-style: italic;
+    font-size: large
+}
+#power-stats h2{
+    color:rgb(94, 95, 184);
+    font-style: italic;
+    font-size: large;
+}
+#menu-bar{
+    height:40px;
+    background-color: cornflowerblue;
+    width: 100%;
+    padding-top: 12px;
+}
+#menu-bar a{
+    text-decoration: none;
+    padding-left: 12px;
+    padding-left: 12px;
+    color: white;
+    font-weight: 100;
+    font-size: larger;
+}
+#menu-bar a:hover{
+    color:cornflowerblue;
+}
+
